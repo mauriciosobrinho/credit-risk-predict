@@ -1,3 +1,6 @@
 ipykernel
 pandas
 matplotlib
+sklearn
+Flask
+fastapi
