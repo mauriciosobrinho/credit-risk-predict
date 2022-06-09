@@ -6,3 +6,5 @@ Flask
 fastapi
 neattext
 nltk
+wordcloud
+seaborn
